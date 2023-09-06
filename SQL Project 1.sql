@@ -1,3 +1,7 @@
+/*
+Covid 19 Data Exploration 
+*/
+
 Select * from CovidDeaths
 where continent is not null 
 order by 3, 4 
